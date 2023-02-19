@@ -1,16 +1,15 @@
-### Hi there 👋
+Hola a Tod@s! Soy Gino 👋
 
-<!--
-**GinoCozzarin77/GinoCozzarin77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🔭Te cuento un poco sobre mi: Soy Ingeniero Industrial y actualmente me dedico al hermoso mundo de los datos, desempeñandome como Data Analyst y en proceso de convertirme en Data Scientist. Debido a mi carrera de origen, puedo analizar los datos desde una perspectiva abocada a la mejora de los procesos internos y externos de una organizacion. Creo firmemente que las organizaciones deben revisar su accionar, para tomar mejores decisiones basandose en datos.
 
-Here are some ideas to get you started:
+Para tal fin, utilizo diferentes tecnologias que me permiten procesar y visualizar los datos de la manera mas sencilla posible. Entre ellas tenemos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ✨SQL
+  ✨POWER BI
+  ✨PYTHON
+  ✨JIRA
+  ✨TRELLO
+  ✨GITHUB
+
+En este repositorio vas a encontrar proyectos sobre SQL, Python, Dashboards, etc que espero sean de ayuda para vos!! 
+Me ayudarias muchisimo con un ⭐️ si te gustan mis repositorios!
